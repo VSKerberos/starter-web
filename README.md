@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-	Sample for deployment procedures
+	Sample for deployment procedures. Adding som etext
 
 ## How To Contribute
 
