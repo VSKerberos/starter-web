@@ -7,7 +7,7 @@ Yunus Erdoğan
 
 # THANKS
 
-    <name>
+   Udemy video
 
 # TECHNOLOGY COLOPHON
 
