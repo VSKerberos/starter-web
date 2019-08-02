@@ -16,6 +16,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
   Contribute section some text
+  README file updating 
 
 
   ### Copyright
